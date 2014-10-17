@@ -18,7 +18,7 @@ fi
 ################################################################################
 # Setup variables
 APP=Documents
-EMAIL="scottj68@gmail.com"
+EMAIL="sample@gmail.com"
 start_time=$(date +%s)
 HOST=`hostname -s`
 SRC_DIR="$HOME/Documents"
